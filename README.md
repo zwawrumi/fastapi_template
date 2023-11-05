@@ -1,1 +1,1 @@
-FastAPI template with authentication built-in
+FastAPI template with built-in authentication 
