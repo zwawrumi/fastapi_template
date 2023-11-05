@@ -1,2 +1,5 @@
 venv
 frontend
+.idea
+.env-non-dev
+.env
